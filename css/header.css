@@ -45,7 +45,7 @@ header nav .logo-container:after {
 
 }
 header nav .logo-container a .logo {
-  background-color: #e0922f;
+  /*background-color: #e0922f;*/
   max-height: 80px;
   padding: 15px;
 }
@@ -61,6 +61,12 @@ header nav span a {
 
 }
 header nav span a button {
+  background-color: #e0922f;
+  border-radius: 0;
+  color: white;
+  margin-right: 0;
+}
+header nav span form input.donate-button {
   background-color: #e0922f;
   border-radius: 0;
   color: white;
