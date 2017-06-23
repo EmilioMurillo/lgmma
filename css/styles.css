@@ -18,7 +18,7 @@ a {
   font-family: 'Raleway', 'Nunito', 'Open Sans', 'Roboto', sans-serif;
   text-decoration: none;
 }
-button {
+button, input.donate-button {
   border: none;
   clear: both;
   display: block;

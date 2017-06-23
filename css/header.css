@@ -66,6 +66,12 @@ header nav span a button {
   color: white;
   margin-right: 0;
 }
+header nav span form input.donate-button {
+  background-color: #e0922f;
+  border-radius: 0;
+  color: white;
+  margin-right: 0;
+}
 /*-----------------------------------
 # Media Queries
 ------------------------------------*/
