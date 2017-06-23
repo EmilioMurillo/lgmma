@@ -45,7 +45,7 @@ header nav .logo-container:after {
 
 }
 header nav .logo-container a .logo {
-  background-color: #e0922f;
+  /*background-color: #e0922f;*/
   max-height: 80px;
   padding: 15px;
 }
